@@ -2,7 +2,7 @@
 Mode 2 - Ghost 3 FPV Racing Frame
 
 # About #
-The Mode 2 Ghost 3, was a feature and performance improvement release over the Ghost V1
+The Mode 2 Ghost 3, is a new redesign taking the features of the V1 and V2 and combining them into the ultimate Ghost. 
 
 ----------
 
